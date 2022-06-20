@@ -1,7 +1,7 @@
 # Online-life-coach--Backend-app
 
 ##Features
-###1-login /n
+###1-login 
 2-CRUD operation fors users
 3-CRUD operation for the life coach community.
 4-reseved appointment for users .
