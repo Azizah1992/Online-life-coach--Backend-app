@@ -15,3 +15,4 @@ _Web Server : Fastify
 -ORM:Mongoose
 -DB:mongo DB
 -Deployment AWS .
+![er_edited](https://user-images.githubusercontent.com/80859185/174710433-ee5ccced-f046-4eb1-814d-976213039157.jpg)
