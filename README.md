@@ -6,7 +6,14 @@
 2. CRUD operation fors users
 3. CRUD operation for the life coach community
 4. reseved appointment for users
-5. question and answers to help user to understand  and determin their situation  and help them to chooses the appropriate life coach for their cases.
+5. question and answers to help user to understand  and determin their situation  and help them to chooses the appropriate life coach for their cases
+6. activity for user
+7. adverstment
+8. blogs page
+9. complement
+10. popular Question 
+11. online course 
+
 
 #Stack
 
