@@ -3,7 +3,7 @@
 ##Features
 
 1. login
-2. CRUD operation fors users
+2. CRUD operation for users
 3. CRUD operation for the life coach community
 4. reseved appointment for users
 5. question and answers to help user to understand  and determin their situation  and help them to chooses the appropriate life coach for their cases
